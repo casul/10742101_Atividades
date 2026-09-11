@@ -10,6 +10,6 @@
 
 *RF-04*: WHEN o usuário calcular o frete e o carrinho atingir o limite regional, THE SYSTEM SHALL zerar o frete.
 
-*RB-05*: WHILE a região for 'Norte', o limite é R$ 300,00. Demais regiões: R$ 200,00.
+*RB-01*: WHILE a região for 'Norte', o limite é R$ 300,00. Demais regiões: R$ 200,00.
 
-*RB-06*: IF valor <= 0, THEN exibir erro 'Valor de carrinho inválido'.
+*RB-02*: IF valor <= 0, THEN exibir erro 'Valor de carrinho inválido'.
